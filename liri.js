@@ -37,7 +37,7 @@ function doCommand(command, searchItem) {
 
             break;
 
-        case 'read-file':
+        case 'do-what-this-says':
 
             console.log('reading file')
 
