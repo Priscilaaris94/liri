@@ -4,7 +4,7 @@ require("dotenv").config();
 
 var keys = require('./key'),
 
-    Twitter = require('twitter')
+    Twitter = require('twitter'),
 
     Spotify = require('node-spotify-api'),
 
@@ -98,7 +98,7 @@ function spotifySong(searchItem){
 
     var spotify = new Spotify(keys.spotify)
 
-    var query = searchItem ? searchItem : 'The Sign',
+    var query = searchItem ? searchItem : 'Collide',
 
         trackNum = searchItem ? 0 : 5 //done in order to get song by Ace of Bass
 

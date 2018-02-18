@@ -16,3 +16,15 @@ Command: spotify-this-song
 * The Sign
 * https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
 * The Sign (US Album) [Remastered]
+
+Command: spotify-this-song 
+* Ace of Base
+* The Sign
+* https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+* The Sign (US Album) [Remastered]
+
+Command: spotify-this-song 
+* Justine Skye
+* Collide (feat. Tyga)
+* https://open.spotify.com/track/0M8MPqaoGgkRjkG9kgZ3n4
+* Collide (feat. Tyga)
